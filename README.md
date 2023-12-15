@@ -19,11 +19,11 @@ I love creating **useless** things...
 
 - **Founder** of  [**NetherCMS**](https://NetherCMS)
 
-- **Dev/Founder** of EletrixBot [**EletrixBot](https://discord.com/oauth2/authorize?client_id=1026132004040884314&permissions=2146959103&scope=bot)
+- **Dev/Founder** of EletrixBot [**EletrixBot**](https://discord.com/oauth2/authorize?client_id=1026132004040884314&permissions=2146959103&scope=bot)
 
-- **Contributor** at [**PaxoPhone](https://paxo.fr/)
+- **Contributor** at [**PaxoPhone**](https://paxo.fr/)
 
-- **Director** of [RE:Cloud](soon!)
+- **Director** of [**RE:Cloud**](soon!)
 
 # Stats :
 
