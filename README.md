@@ -1,5 +1,26 @@
+# 👋 Hello !
 
-<figure><embed src="https://wakatime.com/share/@018c6e51-f6c4-40c0-a59d-2dd5ffd7c4ab/5869460a-62a3-4b7f-8f85-04b86f8b2c20.svg"></embed></figure>
+Im a **French developer !** and **French Youtuber**
 
+I love creating **useless** things...
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/EletrixtimeYT/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/EletrixtimeYT/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/EletrixtimeYT/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+[Website/Portfiolio](https://eletrixtimeyt.github.io)
+
+# Technologies :
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" /><img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
+# Projects
+
+- **Founder** of  [**RE:World**](https://github.com/re-world-dev)
+
+- **Founder** of  [**NetherCMS**](https://NetherCMS)
+
+- **Dev/Founder** of EletrixBot [**EletrixBot](https://discord.com/oauth2/authorize?client_id=1026132004040884314&permissions=2146959103&scope=bot)
+
+- **Contributor** at [**PaxoPhone](https://paxo.fr/)
+
+- **Director** of [RE:Cloud](soon!)
+
+# Stats :
+
+![stats](https://github-readme-stats.vercel.app/api?username=EletrixTimeYT&count_private=true&show_icons=true&theme=highcontrast)
