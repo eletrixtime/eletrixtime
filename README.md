@@ -14,15 +14,11 @@ I love creating **useless** things...
 
 # Projects
 
-- **Founder** of  [**RE:World**](https://github.com/re-world-dev)
-
-- **Founder** of  [**NetherCMS**](https://NetherCMS)
-
-- **Dev/Founder** of EletrixBot [**EletrixBot**](https://discord.com/oauth2/authorize?client_id=1026132004040884314&permissions=2146959103&scope=bot)
+- **Founder** of  [**QuarkoSocial**](https://quarko.eletrix.fr)
 
 - **Contributor** at [**PaxoPhone**](https://paxo.fr/)
 
-- **Director** of [**RE:Cloud**](soon!)
+- **Director** of [**RE:Cloud**](https://recloud.fr)
 
 # Stats :
 
