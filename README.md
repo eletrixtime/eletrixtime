@@ -14,11 +14,11 @@ I love creating **useless** things...
 
 # Projects
 
-- **Founder** of  [**QuarkoSocial**](https://quarko.eletrix.fr)
+- **Founder** of  [**Crypt**](https://crypt.eletrix.fr) | The independent network aiming to improve security and your privacy.
 
-- **Contributor** at [**PaxoPhone**](https://paxo.fr/)
+- **Contributor** at [**PaxoPhone**](https://paxo.fr/) | A écological phone !
 
-- **Director** of [**RE:Cloud**](https://recloud.fr)
+- **Director** of [**RE:Cloud**](https://recloud.fr) | A french host
 
 # Stats :
 
