@@ -22,6 +22,6 @@ I love creating **useless** things...
 
 # Stats :
 
-![stats](https://github-readme-stats.vercel.app/api?username=EletrixTimeYT&count_private=true&show_icons=true&theme=highcontrast)
+![stats](https://github-readme-stats.vercel.app/api?username=eletrixtime&count_private=true&show_icons=true&theme=highcontrast)
 
-![stats2](https://profile-counter.glitch.me/%7BEletrixTimeYT%7D/count.svg)
+![stats2](https://profile-counter.glitch.me/%7Beletrixtime%7D/count.svg)
