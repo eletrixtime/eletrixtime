@@ -4,7 +4,7 @@ Im a **French developer !** and **French Youtuber**
 
 I love creating **useless** things...
 
-[Website/Portfiolio](https://eletrixtimeyt.github.io)
+[Website](https://eletrix.fr)
 
 # Technologies :
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" /><img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img alt="Scratch" src="https://img.shields.io/badge/-Scratch-informational?style=for-the-badge&logo=scratch&logoColor=white&color=FCC624" />
@@ -14,11 +14,9 @@ I love creating **useless** things...
 
 # Projects
 
-- **Founder** of  [**Crypt**](https://crypt.eletrix.fr) | The independent network aiming to improve security and your privacy.
-
-- **Contributor** at [**PaxoPhone**](https://paxo.fr/) | A écological phone !
-
-- **Director** of [**RE:Cloud**](https://recloud.fr) | A french host
+- **Founder** of  [**CryptDev**](https://crypt.eletrix.fr) | My organization
+- **Co-Director** of [**ZenyxCloud**](https://zenyx.eu) | A french host
+- **Dev** of [**OpenChat**](https://chat.eletrix.fr) | A cool chat app
 
 # Stats :
 
