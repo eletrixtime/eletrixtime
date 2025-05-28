@@ -14,7 +14,7 @@ Hey!
 
 # Projects
 
-- **Founder** of  [**CryptDev**](https://crypt.eletrix.fr) | My organization
+- **Founder** of  [**CryptDev**](https://cryptdev.fr) | My organization
 - **Co-Director** of [**ZenyxCloud**](https://zenyx.eu) | A french host
 - **Dev** of [**OpenChat**](https://chat.eletrix.fr) | A cool chat app
 
