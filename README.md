@@ -22,8 +22,6 @@ I'm a french student and i **love tinkering with random things and self hosting*
 
 ![stats](https://github-readme-stats.vercel.app/api?username=eletrixtime&count_private=true&show_icons=true&theme=highcontrast)
 
-*(I use arch btw)*
-
 # Github Organization for serious projects:
 
 [@eletrixfr](https://github.com/eletrixfr) > Serious project not linked to CryptDev
