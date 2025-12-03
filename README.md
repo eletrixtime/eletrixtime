@@ -2,7 +2,7 @@
 
 **Hey**
 
-I'm **EletrixTime** *(you can call me eletrix)*
+I'm **EletrixTime** *(you can call me eletrix or Lisandro)*
 
 I'm a french student and i **love tinkering with random things and self hosting**
 
