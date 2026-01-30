@@ -1,29 +1,3 @@
-# 👋 Welcome to my GitHub Profile !
+# 👋 hii !
 
-**Hey**
-
-I'm **EletrixTime** *(you can call me eletrix or Lisandro)*
-
-I'm a french student and i **love tinkering with random things and self hosting**
-
-
-> [Here](https://eletrix.fr) you can find my portfolio :)
-
-
-# Technologies :
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" /><img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img alt="Scratch" src="https://img.shields.io/badge/-Scratch-informational?style=for-the-badge&logo=scratch&logoColor=white&color=FCC624" /> <img alt="Proxmox" src="https://img.shields.io/badge/-ProxmoxVE?style=for-the-badge&logo=proxmox&logoColor=white">
-
-# Projects
-[<img alt="cryptdev" src="https://static.cryptdev.fr/logo.webp" width="50">](https://cryptdev.fr)
-[<img alt="zenyxcloud" src="https://cdn.zenyx.eu/graphics/WEBP/Full%20Degrad%C3%A9.webp" width="50">](https://zenyx.eu)
-
-
-# Stats :
-
-![stats](https://github-readme-stats.vercel.app/api?username=eletrixtime&count_private=true&show_icons=true&theme=highcontrast)
-
-# Github Organization for serious projects:
-
-[@eletrixfr](https://github.com/eletrixfr) > Serious project not linked to CryptDev
-
-[@cryptdev-gh](https://github.com/cryptdev-gh) > CryptDev github :)))
+That's me !!!
